@@ -11,7 +11,7 @@ box-shadow: 5px 5px 5px  crimson;
 .note {
 
 font-size: 15px;
-color: yellow
+color:darkseagreen
 
 }
 
@@ -20,11 +20,12 @@ color: yellow
 
 position: fixed;
 color:chartreuse;
+font-size: 15px;
 bottom: 0;
 width: 100%;
 background-color:mediumpurple;
 line-height: 3;
-text-align: left;
+text-align:center;
 
 }
 
